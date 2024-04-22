@@ -36,8 +36,8 @@ jobs:
     steps:
       - name: Checkout the repo
         uses: actions/checkout@v2   
-      - name: Install Node.js dependencies
-        run: npm i
+      # - name: Install Node.js dependencies
+      #   run: npm i
       - name: Install Dart Sass
         run: sudo snap install dart-sass
       - name: install hugo 
