@@ -22,6 +22,9 @@ See [https://allremote.info](https://allremote.info) for more information.
 
 ## Handbook Template
 
+![Company Image](./company_image.jpg)
+
+
 A suggestion for many companies finding themselves in this remote position
 is to create a handbook. The way a handbook centralizes knowledge of how an
 organization operates (or should operate) is very helpful. None of the
