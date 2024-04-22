@@ -44,7 +44,7 @@ def create_folders_with_files(num_folders, source_folder, target_parent_folder):
 def main():
     source_folder = '/home/akshat/handbook-template/content/policy'  # Update this path
     target_parent_folder = '/home/akshat/handbook-template/content'  # Update this path
-    create_folders_with_files(2, source_folder, target_parent_folder) 
+    create_folders_with_files(999, source_folder, target_parent_folder) 
     print("done")
 
 
